@@ -1,5 +1,7 @@
 # LumenALYZE
 
+Visit website : https://lumenalyze.vercel.app/
+
 LumenALYZE is a full-stack machine learning platform built with FastAPI backend and Next.js TypeScript frontend. It provides a complete workflow for data analysis, from CSV file upload and preprocessing (handling missing values, normalization, outlier removal) to three core machine learning tasks: prediction (Random Forest and MLP), anomaly detection (Isolation Forest), and segmentation (K-Means clustering). The backend is modularly organized with config, models, services, and utils folders, while the frontend features interactive visualizations using Plotly.js, a results dashboard, and export to CSV/JSON/Excel. The app uses a custom color scheme (#014F39, #FBF7C7, #E8E8E6, #120F0A), Montserrat and Lora typography, comprehensive error handling, TypeScript type safety, and responsive design.
 
 ---
